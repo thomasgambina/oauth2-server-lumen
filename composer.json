@@ -1,5 +1,5 @@
 {
-    "name": "optimus/oauth2-server-lumen",
+    "name": "thomasgambina/oauth2-server-lumen",
     "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
     "authors": [
         {
